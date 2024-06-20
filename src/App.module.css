@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.container {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+}
+
+.tablesContainer {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 1rem;
+}

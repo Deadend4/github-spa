@@ -1,0 +1,14 @@
+.card {
+  padding: 1rem 2rem;
+  max-width: 720px;
+}
+.highlighted {
+  border-radius: 4px;
+  padding: 0.15rem 0.25rem;
+  color: white;
+  background-color: #1976d2;
+}
+.title {
+  display: flex;
+  flex-flow: row wrap;
+}
